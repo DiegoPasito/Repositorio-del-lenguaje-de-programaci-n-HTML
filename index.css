@@ -27,8 +27,17 @@ body {
     padding: 2rem;
 }
 
-/* ENCABEZADO */
-header.Encabezado {
+header {
+    background: #1781b3;
+    color: white;
+    padding: 1rem 0;
+}
+
+header a{
+    color: #f8f9fa;
+}
+
+.Encabezado {
     background: #0e7db4;
     color: white;
     padding: 1rem 0;
