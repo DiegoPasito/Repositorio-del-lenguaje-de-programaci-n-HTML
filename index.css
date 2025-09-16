@@ -168,6 +168,17 @@ footer a:hover {
     }
 
 }
+@media (max-width: 576px){
+    body {
+        font-size: 16px;
+    }
 
+    .container {
+        padding: 0rem;
+    }
+
+     article img {
+        height: 150px;
+    }
 
 
